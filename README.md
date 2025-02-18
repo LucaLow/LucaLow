@@ -34,8 +34,8 @@ My tech arsenal is always expanding, but here’s what I’m most comfortable wi
 
 ## 📫 Let's Connect!
 Whether you're looking to collaborate, chat about AI, or just geek out over tech, feel free to reach out:
-- **GitHub:** [@LucaLow](https://github.com/LucaLow)
-- **LinkedIn:** [@LucaLowndes](linkedin.com/in/LucaLow)
+- **Instagram:** [@Lucaclowns](https://www.instagram.com/lucaclowns/)
+- **LinkedIn:** [Luca Lowndes](https://www.linkedin.com/in/luca-lowndes)
 - **Email:** [luca@lowndes.net](mailto:luca@lowndes.net)
 
 _Always learning, always building, always exploring. Let's create something awesome! 🚀_
