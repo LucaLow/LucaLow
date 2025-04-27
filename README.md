@@ -19,11 +19,13 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 <details>
 <summary>🏆 Recent Highlights (click to expand)</summary>
 
-- 🥇 **UniHack 2025 WINNER** - First place out of 850+ participants (Youngest ever winner!)
+- 🥇 **UniHack 2025 WINNER (February)** - First place out of 850+ participants
+  - **Youngest ever winner in the history of Australia's largest student hackathon**
+  - Created "Growth Garden" - an AI-powered life improvement tool
 - 🧠 AI Research Team Member at Monash DeepNeuron
 - 💼 Freelance AI Integration Specialist (Scag Australia & International Mowers)
-- 🎓 Dux of Mathematical Methods
-- 📚 Completed Stanford & DeepLearning.AI's ML Specializations
+- 🎓 Dux of Mathematical Methods (December 2024)
+- 📚 Completed Stanford & DeepLearning.AI's ML Specializations (Feb 2025)
 
 </details>
 
@@ -34,9 +36,11 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 <td width="50%">
 
 ### 🌱 Growth Garden (UniHack 2025 Winner)
-- First place project at Australia's largest student hackathon
-- AI-powered life improvement tool
-- Beat 850+ participants as the youngest ever winner
+- **First place project at Australia's largest student hackathon (February 2025)**
+- Historic achievement: **Youngest ever winner in UniHack history**
+- AI-powered life improvement tool that gamifies personal development
+- Competed against 850+ university students and graduates
+- [View Project](https://devpost.com/software/growth-garden)
 
 </td>
 <td width="50%">
@@ -110,10 +114,14 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 ```mermaid
 timeline
     title My Academic Journey
-    2022 : Harvard CS50x : Bronze Medallion (LSV)
-    2023 : Certificate III in IT (AIE)
-    2024 : Stanford ML Specialization : Dux Mathematical Methods
-    2025 : Monash Engineering/CS : DeepLearning.AI Certifications
+    January 2022 : Life Saving Victoria - Bronze Medallion
+    May-June 2022 : Harvard CS50x - Introduction to Computer Science
+    January 2023 : AIE - Certificate III in Information Technology
+    February 2024 : Stanford University - Machine Learning Specialization (Andrew Ng)
+    December 2024 : Elwood College - Dux of Mathematical Methods
+    February 2025 : UniHack 2025 - First Place Winner (Youngest Ever)
+    February 2025 : DeepLearning.AI - Advanced ML Certifications
+    February 2025 : Monash University - Engineering/Computer Science (Honours)
 ```
 
 ## 🌟 Experience Timeline
