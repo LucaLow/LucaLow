@@ -181,5 +181,6 @@ I'm always excited to collaborate on innovative projects, discuss AI breakthroug
   ### 💡 "Always learning, always building, always exploring. Let's create something awesome!" 🚀
   
   ![Profile Views](https://komarev.com/ghpvc/?username=LucaLow&color=blueviolet&style=flat-square)
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />   
 </div>
+
