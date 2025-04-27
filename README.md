@@ -1,12 +1,17 @@
 <div align="center">
-  
-  # Hey there, I'm Luca! 👋
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Youngest+Ever+UniHack+Winner+2025+%F0%9F%8F%86;AI+Researcher+%40+Monash+DeepNeuron;Full+Stack+Developer;Machine+Learning+Enthusiast;First+Year+Eng+%2F+Comp+Sci+Student;Road+Bike+Rider+%F0%9F%9A%B4" alt="Typing SVG" />
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-lowndes)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaclowns/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luca@lowndes.net)
+
+<!-- Enhanced 3D Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Luca%20Lowndes&fontSize=80&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,2,20,6,17,18,19&desc=AI%20Architect%20•%20Full%20Stack%20Developer%20•%20Machine%20Learning%20Engineer&descSize=25&descAlignY=60&animation=twinkling" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Youngest+Ever+UniHack+Winner;AI+Researcher+%40+Monash+DeepNeuron;Full+Stack+Developer;Machine+Learning+Enthusiast;First+Year+Eng+%2F+Comp+Sci+Student;Road+Bike+Rider+%F0%9F%9A%B4" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-lowndes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaclowns/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luca@lowndes.net)
   
 </div>
 
@@ -49,7 +54,8 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 - Cutting-edge self-organizing system research
 - PyTorch + WebGL implementation
 - Modeling embryo development with neural networks
-
+- Part of Monash DeepNeuron's advanced research division
+- [View Project](https://www.neuralca.org/)
 </td>
 </tr>
 <tr>
@@ -59,6 +65,7 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 - Custom 28x28 drawing grid for real-time digit recognition
 - TensorFlow + PyTorch implementation
 - Interactive visualization tools
+- [GitHub Repository](https://github.com/LucaLow/MNIST-Interactive-Model-Analyzer)
 
 </td>
 <td width="50%">
@@ -67,6 +74,7 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 - Building conversational AI for industrial equipment
 - Knowledge retrieval pipelines
 - Mobile-optimized interfaces
+- Enterprise clients: Scag Australia & International Mowers
 
 </td>
 </tr>
@@ -110,14 +118,25 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 </div>
 
 ## 🎓 Education Journey
+<div align="center">
+
 
 ```mermaid
 timeline
     title My Academic Journey
-    2022 : Life Saving Victoria Bronze Medallion : Harvard CS50x
-    2023 : AIE Certificate III in Information Technology
-    2024 : Stanford ML Specialization : Elwood College Dux Mathematical Methods
-    2025 : UniHack 2025 First Place (Youngest Ever) : DeepLearning.AI Certifications : Monash University Engineering/CS (Honours)
+    section 2022
+      Foundations & Safety : Life Saving Victoria - Bronze Medallion
+                          : Harvard - CS50x Computer Science
+    section 2023-2024
+      Technical Growth : AIE - Certificate III in IT
+                      : Stanford - Machine Learning Specialization
+                      : Elwood College - Mathematical Methods Dux
+    section 2025
+      Research & Victory : UniHack Champion (Youngest Ever)
+                        : DeepLearning.AI - Advanced ML Certifications
+                        : Monash - Eng / Comp Sci Honours
+                        : DeepNeuron - AI & HPC Team Member
+                        : DeepNeuron - Education & Outreach Team Member
 ```
 
 ## 🌟 Experience Timeline
@@ -128,7 +147,9 @@ timeline
 - **AI & HPC Technical Team Member**
 - Specializing in Neural Cellular Automata research
 - Implementing cutting-edge ML methodologies with PyTorch
-- Educating students on AI fundamentals and applications
+- **Educational Outreach**: Teaching students about AI fundamentals and applications
+- Developing educational materials and workshops for student engagement
+- Mentoring students in machine learning and neural networks
 
 </details>
 
@@ -178,9 +199,8 @@ I'm always excited to collaborate on innovative projects, discuss AI breakthroug
 
 <div align="center">
   
-  ### 💡 "Always learning, always building, always exploring. Let's create something awesome!" 🚀
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=LucaLow&color=blueviolet&style=flat-square)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />   
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=36BCF7&center=true&vCenter=true&width=1000&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%93+Cory+House;%22Simplicity+is+the+soul+of+efficiency.%22+%E2%80%93+Austin+Freeman;%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%93+Linus+Torvalds;%22Programs+must+be+written+for+people+to+read.%22+%E2%80%93+Harold+Abelson" alt="Famous Tech Quotes" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Extraordinary&fontSize=20&fontAlignY=70&animation=twinkling"/>
+
+</div>
