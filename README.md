@@ -114,14 +114,10 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 ```mermaid
 timeline
     title My Academic Journey
-    January 2022 : Life Saving Victoria - Bronze Medallion
-    May-June 2022 : Harvard CS50x - Introduction to Computer Science
-    January 2023 : AIE - Certificate III in Information Technology
-    February 2024 : Stanford University - Machine Learning Specialization (Andrew Ng)
-    December 2024 : Elwood College - Dux of Mathematical Methods
-    February 2025 : UniHack 2025 - First Place Winner (Youngest Ever)
-    February 2025 : DeepLearning.AI - Advanced ML Certifications
-    February 2025 : Monash University - Engineering/Computer Science (Honours)
+    2022 : Life Saving Victoria Bronze Medallion : Harvard CS50x
+    2023 : AIE Certificate III in Information Technology
+    2024 : Stanford ML Specialization : Elwood College Dux Mathematical Methods
+    2025 : UniHack 2025 First Place (Youngest Ever) : DeepLearning.AI Certifications : Monash University Engineering/CS (Honours)
 ```
 
 ## 🌟 Experience Timeline
