@@ -2,7 +2,7 @@
   
   # Hey there, I'm Luca! 👋
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=FirFFFirst+Year+Engineering+%2F+Comp+Sci+Student;Youngest+Ever+UniHack+Winner+2025+%F0%9F%8F%86;AI+Researcher+%40+Monash+DeepNeuron;Full+Stack+Developer;Machine+Learning+Enthusiast;Road+Bike+Rider+%F0%9F%9A%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Youngest+Ever+UniHack+Winner+2025+%F0%9F%8F%86;AI+Researcher+%40+Monash+DeepNeuron;Full+Stack+Developer;Machine+Learning+Enthusiast;First+Year+Eng+%2F+Comp+Sci+Student;Road+Bike+Rider+%F0%9F%9A%B4" alt="Typing SVG" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-lowndes)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaclowns/)
