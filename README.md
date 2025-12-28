@@ -108,15 +108,6 @@ When I'm not coding up a storm, you'll find me **backpacking, hiking, or plannin
 
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=LucaLow&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaLow&theme=radical" alt="GitHub Streak" height="165">
-  
-</div>
-
 ## 🎓 Education Journey
 <div align="center">
 
