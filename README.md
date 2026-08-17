@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building <a href="https://evrystay.com"><strong>EvryStay</strong></a> —  
+  Building <a href="https://evrystay.com"><strong>EvryStay</strong></a>: 
   making hospitality feel less like software from 2009.
 </p>
 
