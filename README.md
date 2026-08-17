@@ -20,7 +20,7 @@
 
 ### How I build
 
-I like ambitious products, small teams, fast feedback loops, and owning the whole problem—from the first rough idea to whatever wakes us up in production.
+I like ambitious products, small teams, fast feedback loops, and owning the whole problem, from the first rough idea to whatever wakes us up in production.
 
 Currently somewhere between product, engineering, design, and “why did that webhook fire twice?”
 
